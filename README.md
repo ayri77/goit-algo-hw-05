@@ -56,37 +56,3 @@
 ### Рекомендації
 
 Для практичного застосування в подібних задачах рекомендовано використовувати **алгоритм Бойера-Мура** як найшвидший варіант для пошуку підрядків у текстових даних.
-
-## Структура проекту
-
-goit-algo-hw-05/
-├── src/
-│ ├── task1.py # HashTable з методом delete
-│ ├── task2.py # Двійковий пошук з верхньою межею
-│ ├── task3.py # Порівняння алгоритмів пошуку
-│ └── substring_search.py # Реалізації алгоритмів пошуку
-├── tests/
-│ ├── test_task1.py
-│ ├── test_task2.py
-│ └── test_substring_search.py
-├── data/
-│ ├── стаття 1.txt
-│ └── стаття 2.txt
-├── benchmark_results.csv # Результати бенчмарків
-├── requirements.txt
-└── README.md
-
-
-## Запуск
-
-# Завдання 1
-python src/task1.py
-
-# Завдання 2
-python src/task2.py
-
-# Завдання 3
-python src/task3.py
-
-# Запуск тестів
-pytest tests/
