@@ -1,7 +1,3 @@
-# goit-algo-hw-05
-
-# goit-algo-hw-05
-
 ## Опис завдань
 
 ### Завдання 1: Метод delete для HashTable
