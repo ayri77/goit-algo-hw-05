@@ -1,0 +1,13 @@
+algo,pattern_type,time_s,text
+boyer_moore,existing,4.098000936210155e-05,article1
+kmp,existing,0.0001068799989297986,article1
+rabin_karp,existing,0.0005789800081402064,article1
+boyer_moore,fake,7.068000268191099e-05,article1
+kmp,fake,0.00019259999971836804,article1
+rabin_karp,fake,0.0009545000037178397,article1
+boyer_moore,existing,0.00020182000007480384,article2
+kmp,existing,0.0006167199928313494,article2
+rabin_karp,existing,0.002853679982945323,article2
+boyer_moore,fake,0.0002785800024867058,article2
+kmp,fake,0.001269280002452433,article2
+rabin_karp,fake,0.005299779982306063,article2
